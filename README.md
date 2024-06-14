@@ -46,7 +46,11 @@ Given real-time stock market data fetched from an API, the task is to develop an
 - **`matplotlib.pyplot`**: Used for data visualization, especially for plotting the model's performance metrics.
 - **`mean_squared_error`**, **`mean_absolute_error`**, **`r2_score`** from **`sklearn.metrics`**: Used to evaluate the performance of the model.
 ##  Methodology Diagram
+<img width="532" alt="Methodology diagram" src="https://github.com/sanaya-bhardwaj/Stock-Forecasting-and-Visualization-Using-LSTM-/assets/135012941/8d46321f-608e-417b-ba54-6cfffd4f2f49">
+
 ## Flow Chart
+<img width="453" alt="Flowchart" src="https://github.com/sanaya-bhardwaj/Stock-Forecasting-and-Visualization-Using-LSTM-/assets/135012941/ccb4b0ba-9b5d-4097-b452-2f80fe812b25">
+
 ## Training & Testing 
 
 TESTING: 20%
